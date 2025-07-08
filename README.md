@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**codygsloan/codygsloan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Cody Sloan, a software developer interested in system-level tools, scripting, and learning more about software testing and automation. I enjoy working on practical projects that help me grow my skills and understand how systems behave under the hood.
 
-Here are some ideas to get you started:
+## 🔧 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few repositories I've worked on in the past.
+
+- [**welloiled-logger**](https://github.com/WellOiledMachine/welloiled-logger)  
+  A lightweight Python toolkit for monitoring system resource usage of command-line processes, with built-in GPU tracking and visualizations.
+
+- [**Optical Character Recognition Toolkit**](https://github.com/WellOiledMachine/Optical-Character-Recognition)  
+  A complete document-processing pipeline using OCR and computer vision techniques to extract structured data from scanned forms.
+
+ - [**PHaST Photo**](https://github.com/SeniorDesign2023/PHaSTphoto)
+  A web application that sorts and filters user-uploaded photos based on “tags” defined by photo metadata and predictions made by computer vision AI.
+
+
