@@ -12,7 +12,4 @@ Here are a few repositories I've worked on in the past.
 - [**Optical Character Recognition Toolkit**](https://github.com/WellOiledMachine/Optical-Character-Recognition)  
   A complete document-processing pipeline using OCR and computer vision techniques to extract structured data from scanned forms.
 
- - [**PHaST Photo**](https://github.com/SeniorDesign2023/PHaSTphoto)
-  A web application that sorts and filters user-uploaded photos based on “tags” defined by photo metadata and predictions made by computer vision AI.
-
 
